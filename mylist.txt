@@ -1,3 +1,4 @@
 +.schwalbe.com
 +.uswe.com
 +.superiorbikes.com
++.bikefunint.com
