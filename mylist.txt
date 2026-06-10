@@ -4,3 +4,4 @@
 +.bikefunint.com
 +.vittoria.com
 +.newtis.info
++.thule.com
