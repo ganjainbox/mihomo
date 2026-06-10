@@ -3,3 +3,4 @@
 +.superiorbikes.com
 +.bikefunint.com
 +.vittoria.com
++.newtis.info
