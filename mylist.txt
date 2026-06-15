@@ -5,3 +5,4 @@
 +.vittoria.com
 +.newtis.info
 +.thule.com
++.connect.garmin.com
