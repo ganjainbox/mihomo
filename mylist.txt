@@ -7,3 +7,4 @@
 +.thule.com
 +.connect.garmin.com
 +.fujifilm-x.com
++.wahoofitness.com
