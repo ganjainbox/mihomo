@@ -8,3 +8,4 @@
 +.connect.garmin.com
 +.fujifilm-x.com
 +.wahoofitness.com
++.thingiverse.com
