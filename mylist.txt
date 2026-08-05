@@ -9,3 +9,4 @@
 +.fujifilm-x.com
 +.wahoofitness.com
 +.thingiverse.com
++.silca.cc
