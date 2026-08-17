@@ -10,3 +10,4 @@
 +.wahoofitness.com
 +.thingiverse.com
 +.silca.cc
++.ovrley.cc
