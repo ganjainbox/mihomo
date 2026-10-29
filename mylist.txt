@@ -11,3 +11,4 @@
 +.thingiverse.com
 +.silca.cc
 +.ovrley.cc
++.cartier.com
