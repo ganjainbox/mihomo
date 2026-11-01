@@ -12,3 +12,4 @@
 +.silca.cc
 +.ovrley.cc
 +.cartier.com
++.garmin.com
